@@ -2,7 +2,7 @@
 
 Flutter task with pressing buttons and bottomsheet
 
-## Getting Started
+## Project info
 
 App on flutter which contain single screen with perform following functionality with proper indentation:
 
