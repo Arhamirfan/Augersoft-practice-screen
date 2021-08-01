@@ -1,16 +1,12 @@
 # intern_task
 
-Flutter tsak with pressing buttons and bottomsheet
+Flutter task with pressing buttons and bottomsheet
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+App on flutter which contain single screen with perform following functionality with proper indentation:
 
-A few resources to get you started if this is your first Flutter project:
+1: When user click on call icon it should open simpleDialog.
+2: When user click on call icon it should open AlertDialogBox.
+3: And when user click share icon it should open bottomsheet
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
